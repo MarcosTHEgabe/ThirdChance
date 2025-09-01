@@ -1,4 +1,4 @@
-speed = 2
+speed = 5
 direction = 0
 
 vision_angle = 90;    // ângulo total do cone (graus)
